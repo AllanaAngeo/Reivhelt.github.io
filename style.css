@@ -1,16 +1,17 @@
 body {
-  background-image: url("BGphoto.png");
+  background-color: lightpink;
+  background-image: url("/assets/BGphoto.png");
 }
 
 header {
-  background-color:blue;
-  color:white;
+  background-color:lightpink;
+  color:lightcoral;
 }
 
 h1 {
-  color:red;
+  color:palevioletred;
 }
 
 p {
-  color:green;
+  color:palevioletred;
 }
