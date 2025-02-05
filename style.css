@@ -1,6 +1,6 @@
 body {
-  background-color: lightpink;
-  background-image: url("/assets/BGphoto.png");
+  background-image: url('assets/BGphoto.png');
+  background-size: 100%;
 }
 
 header {
